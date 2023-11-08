@@ -15,6 +15,9 @@ This is a React-based web application that allows users to search for movies and
 
  - *Live Project Link* - https://mymoviesearch-maddy.netlify.app/
 
+## Demo
+
+![Movies_gif(1)(1)](https://github.com/Maddy150912/MY-MovieSearch/assets/84185600/9f5c783d-afbe-4947-b26e-9e58fc50cdbf)
 
 ## Technologies Used
 
